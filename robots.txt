@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barbados.tranquilitasspa.com/sitemap.xml
